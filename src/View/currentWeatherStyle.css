@@ -1,0 +1,15 @@
+.current-weather {
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    justify-content:center;
+    padding:20px;
+    border:2px solid black;
+    border-radius: 10px;
+}
+
+.temp-and-icon {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
